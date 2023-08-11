@@ -1,5 +1,4 @@
-# RecSys-VAE4CF
-Recommendation System project 2020 - Reimplement VAE for Collaborative Filtering
+# Reimplemetation of Variational Autoencoders for Collaborative Filtering
 
 Paper based: Variational Autoencoders for Collaborative Filtering
 
